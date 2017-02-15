@@ -3,6 +3,11 @@ body{
 }
 
 .pics{
-	width: 300px;
-	height: 300px;
+	display: inline-block;
+	height: 100px;
+	width: 100px;
+}
+
+header{
+	text-align: center;
 }
